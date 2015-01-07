@@ -6,4 +6,5 @@ I want to know how fast farwording works
 This part is bad code.
 This time go for non-fast farwording
 SECOND MERGE
+this time for merging
 
